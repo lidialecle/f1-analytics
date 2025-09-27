@@ -1,4 +1,3 @@
-# f1-analytics
 # F1 Analytics 🏎️
 
 Welcome to my F1 Analytics repository!  
