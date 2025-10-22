@@ -8,10 +8,10 @@ The goal is to explore driver performance, team strategies, race statistics, and
 
 ## Repository Structure
 
-- **data/** → Datasets (CSV, Excel)  
-- **notebooks/** → Python or R analysis scripts  
-- **visualizations/** → Graphs, charts and dashboards  
-- **README.md** → Project description
+- `data/` → Datasets (CSV, Excel)  
+- `notebooks/` → Python or R analysis scripts  
+- `visualizations/` → Graphs, charts and dashboards  
+- `README.md` → Project description
 
 ---
 
